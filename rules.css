@@ -1,0 +1,9 @@
+
+.Element-header {
+  transform: translate3d(0,0,0);
+}
+
+.Element-header--fixed {
+  top: 0;
+  position: fixed;
+}
